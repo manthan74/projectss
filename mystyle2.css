@@ -1,0 +1,14 @@
+body{
+    background-color: antiquewhite
+}
+table {
+    border: 1px solid black;
+    text-transform: uppercase;
+}
+p{
+    color:black;
+}
+ol{
+    text-transform: uppercase;
+}
+

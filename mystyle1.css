@@ -1,0 +1,15 @@
+body.home{
+    background-image: url("wood.jpg");
+}
+h1{
+    color:white;
+}
+ol{
+    border-style: dashed;
+    border-color: white;
+    list-style-type: square;
+}
+img{
+    opacity: 0.5;
+    filter: alpha(opacity=50);
+}

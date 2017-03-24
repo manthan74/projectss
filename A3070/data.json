@@ -1,0 +1,48 @@
+
+data.json
+[
+{
+	"name":"Manthan",
+	"wp_lec":{
+		"con":12,
+		"att":14
+	},
+	"wp_lab":{
+		"con":10,
+		"att":8
+	}
+},
+{
+	"name":"Adi",
+	"wp_lec":{
+		"con":13,
+		"att":12
+	},
+	"wp_lab":{
+		"con":14,
+		"att":14
+	}	
+},
+{
+	"name":"xyz",
+	"wp_lec":{
+		"con":11,
+		"att":10
+	},
+	"wp_lab":{
+		"con":14,
+		"att":10
+	}	
+},
+{
+	"name":"name",
+	"wp_lec":{
+		"con":14,
+		"att":12
+	},
+	"wp_lab":{
+		"con":14,
+		"att":12
+	}	
+}
+]
